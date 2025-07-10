@@ -1,0 +1,4 @@
+*.bak
+*.kicad_prl
+fp-info-cache
+SCRM6816-backups
