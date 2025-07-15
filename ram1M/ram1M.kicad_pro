@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 6.4,
-          "width": 6.4
+          "drill": 0.8,
+          "height": 1.6,
+          "width": 1.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -405,7 +405,6 @@
       "bus_entry_needed": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
-      "conflicting_netclasses": "error",
       "different_unit_footprint": "error",
       "different_unit_net": "error",
       "duplicate_reference": "error",
@@ -451,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SCRM6816.kicad_pro",
+    "filename": "ram1M.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,19 +485,19 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "SCRM6816.net",
+      "netlist": "ram1M.net",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
-      "vrml": ""
+      "vrml": "ram1M.wrl"
     },
     "page_layout_descr_file": ""
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -520,24 +519,6 @@
           "show": true
         },
         {
-          "group_by": true,
-          "label": "Value",
-          "name": "Value",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Datasheet",
-          "name": "Datasheet",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Footprint",
-          "name": "Footprint",
-          "show": true
-        },
-        {
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
@@ -545,15 +526,45 @@
         },
         {
           "group_by": true,
+          "label": "Value",
+          "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from BOM",
+          "name": "${EXCLUDE_FROM_BOM}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from Board",
+          "name": "${EXCLUDE_FROM_BOARD}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Datasheet",
+          "name": "Datasheet",
           "show": true
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": false,
-      "name": "Grouped By Value",
+      "include_excluded_from_bom": true,
+      "name": "Default Editing",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -599,52 +610,8 @@
   },
   "sheets": [
     [
-      "56448118-82b3-4e1c-bda3-84d63e01a14a",
+      "f4b21129-eb65-49c3-af78-f82cafa20c43",
       "Root"
-    ],
-    [
-      "67bfaf55-b6dc-4829-8fca-bf6bda8b8eb7",
-      "decoder"
-    ],
-    [
-      "c4287209-7952-4bc3-af61-1734e6ca3013",
-      "rom"
-    ],
-    [
-      "c5c5c8e4-8884-4f58-9370-e357b3396fe5",
-      "atu"
-    ],
-    [
-      "98a6ea48-1e81-41f7-a844-db039b7dc800",
-      "buffers"
-    ],
-    [
-      "1aa81d50-fa3e-4844-b0ea-91b73c69a98f",
-      "pidreg"
-    ],
-    [
-      "024e6e5e-a156-416a-80e5-bb61019b3b6b",
-      "ilatch"
-    ],
-    [
-      "112d113d-4ccd-4b29-a1fb-f7c487463e5b",
-      "power&reset"
-    ],
-    [
-      "6b7efd4b-9562-42f4-9e10-c9325680e8f3",
-      "statusreg"
-    ],
-    [
-      "6370f5b1-3859-4547-885f-6a592ab59011",
-      "systimer"
-    ],
-    [
-      "e7364b76-bdb1-44d5-91e5-69fabfee67f6",
-      "ram"
-    ],
-    [
-      "adba7773-05b8-49c7-ad2e-71c8ea52ce31",
-      "peripherals"
     ]
   ],
   "text_variables": {}

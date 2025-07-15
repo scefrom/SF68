@@ -1,4 +1,8 @@
+*.net
+*.wrl
 *.bak
 *.kicad_prl
 fp-info-cache
 SCRM6816-backups
+ram1M/fp-info-cache
+ram1M/ram1M-backups

@@ -5366,7 +5366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 76.2 142.24 0)
 			(effects
 				(font
@@ -5608,7 +5608,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket"
+		(property "Footprint" "Package_DIP:DIP-28_W15.24mm"
 			(at 152.4 101.6 0)
 			(effects
 				(font
@@ -5753,7 +5753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 71.12 76.2 0)
 			(effects
 				(font
@@ -5859,7 +5859,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket"
+		(property "Footprint" "Package_DIP:DIP-28_W15.24mm"
 			(at 215.9 101.6 0)
 			(effects
 				(font
@@ -6004,7 +6004,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_P2.54mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.54mm"
 			(at 86.36 75.2348 0)
 			(effects
 				(font
@@ -6267,7 +6267,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 76.2 149.86 0)
 			(effects
 				(font
@@ -6370,7 +6370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 93.98 76.2 0)
 			(effects
 				(font
