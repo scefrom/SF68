@@ -6636,7 +6636,7 @@
 		(uuid "35962a51-e817-4884-a0e6-8064357dd3c3")
 	)
 	(label "AC{~{P},~{D},~{U}}"
-		(at 127 124.46 180)
+		(at 127 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7026,7 +7026,7 @@
 		(uuid "873530d1-4bc4-4b79-ab64-47785baef376")
 	)
 	(label "DS{~{U},~{L}}"
-		(at 127 121.92 180)
+		(at 127 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7146,7 +7146,7 @@
 		(uuid "9ff2cdf7-3f0b-4729-b12e-4f29605ecb98")
 	)
 	(label "~{RIH}"
-		(at 127 127 180)
+		(at 127 129.54 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7276,7 +7276,7 @@
 		(uuid "b35c7b1b-de87-4379-b785-7c6af6673e95")
 	)
 	(label "DIR{~{W},~{R}}"
-		(at 127 129.54 180)
+		(at 127 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7494,6 +7494,16 @@
 			(justify right bottom)
 		)
 		(uuid "ec90cbe1-1335-496b-9f01-80038b98ece2")
+	)
+	(label "BE{~{E},~{IO},~{ET},~{M},I}"
+		(at 127 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f0772e72-4cd0-431e-a079-995dd73b4e6b")
 	)
 	(label "~{I_{2}}"
 		(at 38.1 45.72 180)
@@ -11508,7 +11518,7 @@
 	)
 	(sheet
 		(at 127 114.3)
-		(size 25.4 17.78)
+		(size 25.4 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -11532,7 +11542,7 @@
 			)
 		)
 		(property "Sheetfile" "ram.kicad_sch"
-			(at 127 132.6646 0)
+			(at 127 135.2046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11541,7 +11551,7 @@
 			)
 		)
 		(pin "AC{~{P},~{D}}" input
-			(at 127 124.46 180)
+			(at 127 127 180)
 			(uuid "581c3bef-25c7-4ee3-9b83-aaac17238b76")
 			(effects
 				(font
@@ -11561,7 +11571,7 @@
 			)
 		)
 		(pin "DIR{~{W},~{R}}" input
-			(at 127 129.54 180)
+			(at 127 132.08 180)
 			(uuid "60a47130-96c8-4d93-a7a0-eb53b382f5ff")
 			(effects
 				(font
@@ -11571,7 +11581,7 @@
 			)
 		)
 		(pin "DS{~{U},~{L}}" input
-			(at 127 121.92 180)
+			(at 127 124.46 180)
 			(uuid "b0c4a4a0-807b-4601-9528-07230a76af60")
 			(effects
 				(font
@@ -11601,7 +11611,7 @@
 			)
 		)
 		(pin "~{RIH}" input
-			(at 127 127 180)
+			(at 127 129.54 180)
 			(uuid "0f7fa3aa-6766-4faf-904f-87c1eae8b344")
 			(effects
 				(font
@@ -11618,6 +11628,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "BE{~{M}}" input
+			(at 127 121.92 180)
+			(uuid "78e76b47-42ba-4048-b0d9-ae78f1bd4db4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
