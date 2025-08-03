@@ -3064,13 +3064,13 @@
 		)
 	)
 	(junction
-		(at 68.58 144.78)
+		(at 81.28 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5ebe5c2d-598b-42df-a564-6d3c3025a198")
 	)
 	(junction
-		(at 86.36 76.2)
+		(at 81.28 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "902a1ea3-ec26-4ed8-a0e7-fd006cc9d9b8")
@@ -3265,7 +3265,7 @@
 		(uuid "46380e1d-6bd0-4519-a911-11b6fb7538de")
 	)
 	(bus_entry
-		(at 60.96 149.86)
+		(at 73.66 121.92)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -3391,7 +3391,7 @@
 		(uuid "8d686dd9-1695-4f1d-a3fb-d6b3d4550b66")
 	)
 	(bus_entry
-		(at 55.88 142.24)
+		(at 68.58 114.3)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -3454,7 +3454,7 @@
 		(uuid "c6c93b12-07b2-4e69-a65c-ee84af60c7b7")
 	)
 	(bus_entry
-		(at 55.88 73.66)
+		(at 50.8 86.36)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -3490,7 +3490,7 @@
 		(uuid "d1214d10-aae4-4243-93bb-6404e0097658")
 	)
 	(bus_entry
-		(at 60.96 137.16)
+		(at 73.66 109.22)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -3603,7 +3603,7 @@
 	)
 	(bus
 		(pts
-			(xy 53.34 142.24) (xy 55.88 142.24)
+			(xy 66.04 114.3) (xy 68.58 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3703,7 +3703,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 144.78) (xy 68.58 144.78)
+			(xy 71.12 116.84) (xy 81.28 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3863,7 +3863,7 @@
 	)
 	(bus
 		(pts
-			(xy 53.34 73.66) (xy 55.88 73.66)
+			(xy 48.26 86.36) (xy 50.8 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3983,7 +3983,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 144.78) (xy 68.58 147.32)
+			(xy 81.28 116.84) (xy 81.28 119.38)
 		)
 		(stroke
 			(width 0)
@@ -4003,7 +4003,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 76.2) (xy 63.5 76.2)
+			(xy 53.34 88.9) (xy 58.42 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4143,7 +4143,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 139.7) (xy 68.58 139.7)
+			(xy 76.2 111.76) (xy 81.28 111.76)
 		)
 		(stroke
 			(width 0)
@@ -4253,7 +4253,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 152.4) (xy 68.58 152.4)
+			(xy 76.2 124.46) (xy 81.28 124.46)
 		)
 		(stroke
 			(width 0)
@@ -4273,7 +4273,7 @@
 	)
 	(bus
 		(pts
-			(xy 60.96 137.16) (xy 60.96 149.86)
+			(xy 73.66 109.22) (xy 73.66 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4393,7 +4393,7 @@
 	)
 	(bus
 		(pts
-			(xy 58.42 137.16) (xy 60.96 137.16)
+			(xy 71.12 109.22) (xy 73.66 109.22)
 		)
 		(stroke
 			(width 0)
@@ -4652,7 +4652,7 @@
 		(uuid "fe10ce5d-4625-484c-8595-9c476cd3a74a")
 	)
 	(label "~{US}"
-		(at 83.82 149.86 0)
+		(at 96.52 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4732,7 +4732,7 @@
 		(uuid "25928585-c395-4f93-ab39-bff26f185880")
 	)
 	(label "BE.~{E}"
-		(at 63.5 76.2 180)
+		(at 58.42 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4842,7 +4842,7 @@
 		(uuid "58ada28e-c589-4859-877a-6064a4cc52f8")
 	)
 	(label "~{LS}"
-		(at 83.82 142.24 0)
+		(at 96.52 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4892,7 +4892,7 @@
 		(uuid "6cc696e2-d8d9-4b1f-927b-fde6ee3691f8")
 	)
 	(label "BE.~{E}"
-		(at 68.58 144.78 180)
+		(at 81.28 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5002,7 +5002,7 @@
 		(uuid "9c17f94c-aec9-4140-b006-44cf4d5e7f20")
 	)
 	(label "DS.~{L}"
-		(at 68.58 139.7 180)
+		(at 81.28 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5012,7 +5012,7 @@
 		(uuid "acc8f83a-f7fa-455a-b548-6eade1bc029d")
 	)
 	(label "DS.~{U}"
-		(at 68.58 152.4 180)
+		(at 81.28 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5233,7 +5233,7 @@
 	)
 	(hierarchical_label "BE{~{E}}"
 		(shape input)
-		(at 53.34 142.24 180)
+		(at 66.04 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5288,7 +5288,7 @@
 	)
 	(hierarchical_label "BE{~{E}}"
 		(shape input)
-		(at 53.34 73.66 180)
+		(at 48.26 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5299,7 +5299,7 @@
 	)
 	(hierarchical_label "DS{~{U},~{L}}"
 		(shape input)
-		(at 58.42 137.16 180)
+		(at 71.12 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5321,7 +5321,7 @@
 	)
 	(hierarchical_label "DRD"
 		(shape output)
-		(at 101.6 76.2 0)
+		(at 96.52 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5343,7 +5343,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 76.2 142.24 0)
+		(at 88.9 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5351,7 +5351,7 @@
 		(dnp no)
 		(uuid "25175417-08c5-4720-b157-d235e84d1e6e")
 		(property "Reference" "U6"
-			(at 76.2 140.97 0)
+			(at 88.9 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5359,7 +5359,7 @@
 			)
 		)
 		(property "Value" "74HC32"
-			(at 76.2 143.51 0)
+			(at 88.9 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5367,7 +5367,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 76.2 142.24 0)
+			(at 88.9 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5376,7 +5376,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 76.2 142.24 0)
+			(at 88.9 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5385,7 +5385,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 76.2 142.24 0)
+			(at 88.9 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5512,7 +5512,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 86.36 80.01 0)
+		(at 81.28 92.71 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5521,7 +5521,7 @@
 		(dnp no)
 		(uuid "2dc0a0e1-4613-44e7-a9ac-577627543892")
 		(property "Reference" "R4"
-			(at 88.9 78.7399 0)
+			(at 83.82 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5530,7 +5530,7 @@
 			)
 		)
 		(property "Value" "20k"
-			(at 88.9 81.2799 0)
+			(at 83.82 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5539,7 +5539,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 88.138 80.01 90)
+			(at 83.058 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5548,7 +5548,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 80.01 0)
+			(at 81.28 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5557,7 +5557,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 86.36 80.01 0)
+			(at 81.28 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5730,7 +5730,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74HC14")
-		(at 71.12 76.2 0)
+		(at 66.04 88.9 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5738,7 +5738,7 @@
 		(dnp no)
 		(uuid "4e1241b7-f0bb-41d2-a58e-39bd1c0966e4")
 		(property "Reference" "U7"
-			(at 71.12 74.93 0)
+			(at 66.04 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5746,7 +5746,7 @@
 			)
 		)
 		(property "Value" "74HC14"
-			(at 71.12 77.47 0)
+			(at 66.04 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5754,7 +5754,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 71.12 76.2 0)
+			(at 66.04 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5763,7 +5763,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14"
-			(at 71.12 76.2 0)
+			(at 66.04 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5772,7 +5772,7 @@
 			)
 		)
 		(property "Description" "Hex inverter schmitt trigger"
-			(at 71.12 76.2 0)
+			(at 66.04 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5981,7 +5981,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 82.55 76.2 90)
+		(at 77.47 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5989,7 +5989,7 @@
 		(dnp no)
 		(uuid "77ccb736-ab0a-4f3c-a490-08b65b80c8dd")
 		(property "Reference" "C1"
-			(at 82.55 72.644 90)
+			(at 77.47 85.344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5997,7 +5997,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 82.55 79.756 90)
+			(at 77.47 92.456 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6005,7 +6005,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.54mm"
-			(at 86.36 75.2348 0)
+			(at 81.28 87.9348 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6014,7 +6014,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 76.2 0)
+			(at 77.47 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6023,7 +6023,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 82.55 76.2 0)
+			(at 77.47 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6178,7 +6178,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 86.36 83.82 0)
+		(at 81.28 96.52 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6187,7 +6187,7 @@
 		(dnp no)
 		(uuid "9b7608f1-9fc2-4ffa-9998-8849197defde")
 		(property "Reference" "#PWR027"
-			(at 86.36 90.17 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6196,7 +6196,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 86.36 87.884 0)
+			(at 81.28 100.584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6204,7 +6204,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 83.82 0)
+			(at 81.28 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6213,7 +6213,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 83.82 0)
+			(at 81.28 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6222,7 +6222,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 83.82 0)
+			(at 81.28 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6244,7 +6244,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 76.2 149.86 0)
+		(at 88.9 121.92 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6252,7 +6252,7 @@
 		(dnp no)
 		(uuid "9e2903c6-0839-418c-a9ce-91af2c7c7ae5")
 		(property "Reference" "U6"
-			(at 76.2 148.59 0)
+			(at 88.9 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6260,7 +6260,7 @@
 			)
 		)
 		(property "Value" "74HC32"
-			(at 76.2 151.13 0)
+			(at 88.9 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6268,7 +6268,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 76.2 149.86 0)
+			(at 88.9 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6277,7 +6277,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
-			(at 76.2 149.86 0)
+			(at 88.9 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6286,7 +6286,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 76.2 149.86 0)
+			(at 88.9 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6347,7 +6347,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS05")
-		(at 93.98 76.2 0)
+		(at 88.9 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6355,7 +6355,7 @@
 		(dnp no)
 		(uuid "c2b7bb61-7a33-4f59-9713-21fe0d097fe1")
 		(property "Reference" "U8"
-			(at 93.98 74.676 0)
+			(at 88.9 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6363,7 +6363,7 @@
 			)
 		)
 		(property "Value" "74HC05"
-			(at 93.98 77.216 0)
+			(at 88.9 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6371,7 +6371,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 93.98 76.2 0)
+			(at 88.9 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6380,7 +6380,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS05"
-			(at 93.98 76.2 0)
+			(at 88.9 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6389,7 +6389,7 @@
 			)
 		)
 		(property "Description" "Inverter Open Collect"
-			(at 93.98 76.2 0)
+			(at 88.9 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
