@@ -1079,6 +1079,119 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector_Generic:Conn_01x01"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x01"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x01_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1869,6 +1982,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "^^\n(might not work with oscilloscope\nprobe attached to stprobe)"
+		(exclude_from_sim no)
+		(at 134.62 109.22 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "6d201782-d365-4d33-ba87-b8b20c4eee2c")
+	)
 	(text "irq 01h, pri. 1/4	<="
 		(exclude_from_sim no)
 		(at 147.32 86.36 0)
@@ -2578,109 +2702,6 @@
 		)
 	)
 	(symbol
-		(lib_id "74xx:74HC14")
-		(at 119.38 101.6 0)
-		(unit 5)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "427983dc-3d05-4b37-b7a1-0ab62f31d602")
-		(property "Reference" "U7"
-			(at 119.38 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "74HC14"
-			(at 119.38 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 119.38 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14"
-			(at 119.38 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Hex inverter schmitt trigger"
-			(at 119.38 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2f5e4994-fc84-4ae4-922d-8d86a347172c")
-		)
-		(pin "5"
-			(uuid "0c7e921d-39c7-426a-991a-82772f3e2ba5")
-		)
-		(pin "6"
-			(uuid "e822ef79-42a5-4aff-8db4-33e7fd234694")
-		)
-		(pin "4"
-			(uuid "2a023d52-a898-4783-9a35-184c522697c2")
-		)
-		(pin "2"
-			(uuid "4ba63346-acae-4f2e-b133-0fd6cc82023d")
-		)
-		(pin "8"
-			(uuid "77c6de1e-5385-4e96-9922-0915dac17a5f")
-		)
-		(pin "9"
-			(uuid "8a4d4cf0-c1fc-4a31-883e-9ba910f684df")
-		)
-		(pin "3"
-			(uuid "3784a531-e1d8-46fe-99fc-0c3a86a1915b")
-		)
-		(pin "12"
-			(uuid "588e88d8-43c1-49b1-b332-ffd81a09d750")
-		)
-		(pin "10"
-			(uuid "924f33a9-44b8-44a6-a8c7-7b48324dffe5")
-		)
-		(pin "7"
-			(uuid "ea9273fb-a5b6-4227-864c-887a64788ae6")
-		)
-		(pin "13"
-			(uuid "9eddb219-32f8-4d01-b2bc-0b636eabdea5")
-		)
-		(pin "14"
-			(uuid "8db950e2-b5bf-4551-a72d-15d40130e7ce")
-		)
-		(pin "11"
-			(uuid "b22ade53-8765-43a6-b8c1-134db82fcf1a")
-		)
-		(instances
-			(project "SCRM6816"
-				(path "/56448118-82b3-4e1c-bda3-84d63e01a14a/6370f5b1-3859-4547-885f-6a592ab59011"
-					(reference "U7")
-					(unit 5)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 152.4 91.44 270)
 		(unit 1)
@@ -2742,6 +2763,109 @@
 				(path "/56448118-82b3-4e1c-bda3-84d63e01a14a/6370f5b1-3859-4547-885f-6a592ab59011"
 					(reference "#PWR091")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "74xx:74HC14")
+		(at 119.38 101.6 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5c909a75-73e5-4c5e-979b-3ff5a3198bbc")
+		(property "Reference" "U7"
+			(at 119.38 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74HC14"
+			(at 119.38 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+			(at 119.38 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14"
+			(at 119.38 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex inverter schmitt trigger"
+			(at 119.38 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d62944f0-4e4a-4eee-ab55-dcb6e2dc32a0")
+		)
+		(pin "5"
+			(uuid "0c7e921d-39c7-426a-991a-82772f3e2ba1")
+		)
+		(pin "6"
+			(uuid "e822ef79-42a5-4aff-8db4-33e7fd234690")
+		)
+		(pin "4"
+			(uuid "5f711c8c-4c99-4bba-bcb6-c71725273285")
+		)
+		(pin "2"
+			(uuid "7a9335dd-dea9-4f3e-bc37-eeef40520f0b")
+		)
+		(pin "8"
+			(uuid "77c6de1e-5385-4e96-9922-0915dac17a5c")
+		)
+		(pin "9"
+			(uuid "8a4d4cf0-c1fc-4a31-883e-9ba910f684dc")
+		)
+		(pin "3"
+			(uuid "e819dbe9-1a4c-4517-9c92-ac9efbd3aef0")
+		)
+		(pin "12"
+			(uuid "588e88d8-43c1-49b1-b332-ffd81a09d74d")
+		)
+		(pin "10"
+			(uuid "3ab4b01f-a1aa-4680-85ce-ff80cfb2fbd0")
+		)
+		(pin "7"
+			(uuid "ea9273fb-a5b6-4227-864c-887a64788ae3")
+		)
+		(pin "13"
+			(uuid "9eddb219-32f8-4d01-b2bc-0b636eabdea2")
+		)
+		(pin "14"
+			(uuid "8db950e2-b5bf-4551-a72d-15d40130e7cb")
+		)
+		(pin "11"
+			(uuid "8e452269-cf55-441d-84fb-f8d963066a17")
+		)
+		(instances
+			(project "SCRM6816"
+				(path "/56448118-82b3-4e1c-bda3-84d63e01a14a/6370f5b1-3859-4547-885f-6a592ab59011"
+					(reference "U7")
+					(unit 2)
 				)
 			)
 		)
@@ -3352,6 +3476,72 @@
 			(project "SCRM6816"
 				(path "/56448118-82b3-4e1c-bda3-84d63e01a14a/6370f5b1-3859-4547-885f-6a592ab59011"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 127 96.52 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cd46f7ce-02e2-4733-88f4-93f0e77e0c72")
+		(property "Reference" "J14"
+			(at 124.46 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "stprobe"
+			(at 124.46 97.7899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 127 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b779bcb0-27aa-4234-a1ab-73dff66d2a42")
+		)
+		(instances
+			(project ""
+				(path "/56448118-82b3-4e1c-bda3-84d63e01a14a/6370f5b1-3859-4547-885f-6a592ab59011"
+					(reference "J14")
 					(unit 1)
 				)
 			)

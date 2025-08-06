@@ -612,31 +612,19 @@
     ],
     [
       "c5c5c8e4-8884-4f58-9370-e357b3396fe5",
-      "atu"
+      "mmu"
     ],
     [
       "98a6ea48-1e81-41f7-a844-db039b7dc800",
       "buffers"
     ],
     [
-      "1aa81d50-fa3e-4844-b0ea-91b73c69a98f",
-      "pidreg"
-    ],
-    [
       "024e6e5e-a156-416a-80e5-bb61019b3b6b",
       "ilatch"
     ],
     [
-      "112d113d-4ccd-4b29-a1fb-f7c487463e5b",
-      "power&reset"
-    ],
-    [
       "6b7efd4b-9562-42f4-9e10-c9325680e8f3",
       "statusreg"
-    ],
-    [
-      "6370f5b1-3859-4547-885f-6a592ab59011",
-      "systimer"
     ],
     [
       "e7364b76-bdb1-44d5-91e5-69fabfee67f6",
