@@ -18140,7 +18140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_TE-Connectivity:55308437"
 			(at 176.53 62.23 0)
 			(effects
 				(font
@@ -18534,7 +18534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_TE-Connectivity:55308437"
 			(at 113.03 62.23 0)
 			(effects
 				(font
@@ -18776,7 +18776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PCBEdge:55308432"
+		(property "Footprint" "Connector_IDC:IDC-Header_2x15_P2.54mm_Horizontal"
 			(at 133.35 176.53 0)
 			(effects
 				(font
@@ -20600,7 +20600,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_IDC:IDC-Header_2x30_P2.54mm_Horizontal"
 			(at 62.23 179.07 0)
 			(effects
 				(font
@@ -22803,7 +22803,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_TE-Connectivity:55308437"
 			(at 49.53 62.23 0)
 			(effects
 				(font
@@ -23179,7 +23179,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_TE-Connectivity:55308437"
 			(at 240.03 62.23 0)
 			(effects
 				(font

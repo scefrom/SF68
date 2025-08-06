@@ -15057,7 +15057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_TE-Connectivity:55308437"
 			(at 240.03 62.23 0)
 			(effects
 				(font
@@ -16277,7 +16277,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_TE-Connectivity:55308437"
 			(at 49.53 62.23 0)
 			(effects
 				(font
@@ -16988,7 +16988,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_TE-Connectivity:55308437"
 			(at 176.53 62.23 0)
 			(effects
 				(font
@@ -17533,7 +17533,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 99.06 137.16 0)
 			(effects
 				(font
@@ -18207,7 +18207,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_TE-Connectivity:55308437"
 			(at 113.03 62.23 0)
 			(effects
 				(font

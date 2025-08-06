@@ -4887,7 +4887,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 220.98 63.5 0)
 			(effects
 				(font
@@ -4990,7 +4990,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 330.2 10.16 0)
 			(effects
 				(font
@@ -5093,7 +5093,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 236.22 66.04 0)
 			(effects
 				(font
@@ -6249,7 +6249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 236.22 76.2 0)
 			(effects
 				(font
@@ -6418,7 +6418,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 330.2 0 0)
 			(effects
 				(font
@@ -6765,7 +6765,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 53.34 109.22 0)
 			(effects
 				(font
@@ -6935,7 +6935,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 330.2 38.1 0)
 			(effects
 				(font
@@ -7038,7 +7038,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 50.8 93.98 0)
 			(effects
 				(font
@@ -7208,7 +7208,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 76.2 48.26 0)
 			(effects
 				(font
@@ -7311,7 +7311,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 236.22 50.8 0)
 			(effects
 				(font
@@ -7414,7 +7414,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 330.2 20.32 0)
 			(effects
 				(font
@@ -7442,46 +7442,46 @@
 			)
 		)
 		(pin "5"
-			(uuid "af501dc2-5dd9-44cf-8933-2ae40271d65b")
+			(uuid "af501dc2-5dd9-44cf-8933-2ae40271d65d")
 		)
 		(pin "4"
-			(uuid "c6547cb4-bf1b-41ad-9f4e-e8ac1b769dbe")
+			(uuid "c6547cb4-bf1b-41ad-9f4e-e8ac1b769dbf")
 		)
 		(pin "13"
-			(uuid "ce40dd61-7ff3-4024-ab7a-1fcd006f1666")
+			(uuid "ce40dd61-7ff3-4024-ab7a-1fcd006f1667")
 		)
 		(pin "1"
-			(uuid "ab703d17-f712-46f7-8c5b-ec4fa8c08ff2")
+			(uuid "ab703d17-f712-46f7-8c5b-ec4fa8c08ff3")
 		)
 		(pin "14"
 			(uuid "c22c547e-8c22-4d58-af96-b1cf9f0a5876")
 		)
 		(pin "3"
-			(uuid "61c99a8a-8135-47b7-8392-51c6bda5a27e")
+			(uuid "61c99a8a-8135-47b7-8392-51c6bda5a27f")
 		)
 		(pin "6"
-			(uuid "b64ec5af-b1e2-4323-bcf3-ce5c9c624cea")
+			(uuid "b64ec5af-b1e2-4323-bcf3-ce5c9c624cec")
 		)
 		(pin "8"
-			(uuid "86c3cf40-2ff6-44e4-b82f-89360adf08e3")
+			(uuid "86c3cf40-2ff6-44e4-b82f-89360adf08e4")
 		)
 		(pin "11"
-			(uuid "cd8bb020-d8a5-4726-93b8-a42d2a76d976")
+			(uuid "cd8bb020-d8a5-4726-93b8-a42d2a76d977")
 		)
 		(pin "12"
-			(uuid "2d5bf1f4-48e7-4d90-89f3-0650707c40ce")
+			(uuid "2d5bf1f4-48e7-4d90-89f3-0650707c40cf")
 		)
 		(pin "7"
 			(uuid "d92c8c69-bb7a-46e8-9294-0c3342ddfd01")
 		)
 		(pin "2"
-			(uuid "31a98adc-86c2-415d-a044-2559382d9616")
+			(uuid "31a98adc-86c2-415d-a044-2559382d9617")
 		)
 		(pin "9"
-			(uuid "bae200f0-bc5f-44c4-ae90-0ba0c618d5cb")
+			(uuid "bae200f0-bc5f-44c4-ae90-0ba0c618d5cc")
 		)
 		(pin "10"
-			(uuid "b6dc7114-482e-4ec9-9e99-ee0ac2ca78e9")
+			(uuid "b6dc7114-482e-4ec9-9e99-ee0ac2ca78ea")
 		)
 		(instances
 			(project "SCRM6816"
