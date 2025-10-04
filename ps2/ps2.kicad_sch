@@ -17552,7 +17552,7 @@
 				)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "4k7"
 			(at 187.96 68.58 90)
 			(effects
 				(font

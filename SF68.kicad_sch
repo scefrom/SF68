@@ -4992,12 +4992,6 @@
 		(uuid "dd95c5b8-5f12-4169-9a50-caa265eb0545")
 	)
 	(junction
-		(at 322.58 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e40e520b-6738-4260-ba33-7bc94d5b671e")
-	)
-	(junction
 		(at 69.85 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5042,10 +5036,6 @@
 	(no_connect
 		(at 337.82 38.1)
 		(uuid "afcfb6c0-9d67-4c8e-8558-159628240257")
-	)
-	(no_connect
-		(at 337.82 53.34)
-		(uuid "b5955442-a281-442c-abd9-bfe29a38d121")
 	)
 	(bus_entry
 		(at 181.61 73.66)
@@ -6713,16 +6703,6 @@
 			(type default)
 		)
 		(uuid "c42378dd-dbe1-43af-a878-fb7ab880264a")
-	)
-	(wire
-		(pts
-			(xy 322.58 45.72) (xy 322.58 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5de4944-f2d1-47e6-8933-cfd180ebb905")
 	)
 	(bus
 		(pts
@@ -8792,109 +8772,6 @@
 				(path "/56448118-82b3-4e1c-bda3-84d63e01a14a"
 					(reference "C10")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "74xx:74HC14")
-		(at 330.2 53.34 0)
-		(unit 6)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1ece4995-107a-4aa8-832c-3c1585337e9c")
-		(property "Reference" "U27"
-			(at 330.2 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "74HC14"
-			(at 330.2 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 330.2 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 330.2 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 330.2 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2f5e4994-fc84-4ae4-922d-8d86a347172b")
-		)
-		(pin "5"
-			(uuid "0c7e921d-39c7-426a-991a-82772f3e2ba2")
-		)
-		(pin "6"
-			(uuid "e822ef79-42a5-4aff-8db4-33e7fd234691")
-		)
-		(pin "4"
-			(uuid "2a023d52-a898-4783-9a35-184c522697bf")
-		)
-		(pin "2"
-			(uuid "4ba63346-acae-4f2e-b133-0fd6cc82023c")
-		)
-		(pin "8"
-			(uuid "77c6de1e-5385-4e96-9922-0915dac17a5d")
-		)
-		(pin "9"
-			(uuid "8a4d4cf0-c1fc-4a31-883e-9ba910f684dd")
-		)
-		(pin "3"
-			(uuid "3784a531-e1d8-46fe-99fc-0c3a86a19158")
-		)
-		(pin "12"
-			(uuid "7c4db9ed-f007-4fa6-bc38-f4e4b88b521b")
-		)
-		(pin "10"
-			(uuid "cb456f0e-c5d9-4d2e-a5af-dc549503a5d2")
-		)
-		(pin "7"
-			(uuid "ea9273fb-a5b6-4227-864c-887a64788ae4")
-		)
-		(pin "13"
-			(uuid "0168ed9a-4f4f-4494-bea0-6205bdad1a08")
-		)
-		(pin "14"
-			(uuid "8db950e2-b5bf-4551-a72d-15d40130e7cc")
-		)
-		(pin "11"
-			(uuid "58e1adf1-acaa-4066-8d2e-a4034803c14c")
-		)
-		(instances
-			(project "SCRM6816"
-				(path "/56448118-82b3-4e1c-bda3-84d63e01a14a"
-					(reference "U27")
-					(unit 6)
 				)
 			)
 		)
