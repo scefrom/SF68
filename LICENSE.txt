@@ -1,8 +1,8 @@
 Free and Open HardWare License - Version 1.0 - October 5th, 2025
 
-Copyright <YEAR>, <CR HOLDERs>
+Copyright 2025, Pietro Senesi
 
-This document is under the governing law of <CR HOLDERs COUNTRY OR JURISDICTION OF INTEREST>.  
+This document is under the governing law of Italy.
 
 Preface 
 Previous versions of this license may or may not be compatibile between eachother, the final responsability is on the copyright holder(s) and final users. Derivative works are to follow the same license version as the one specified on top of this document.
@@ -48,10 +48,6 @@ THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
 
 12. Upon death of the Licensor, all rights and obligations under this license transfer to the Licensor's legal heirs under applicable inheritance law. If no heirs exist, or if the heirs formally waive their rights to the Work through the legal tools provided by governing law, the Work it self SHALL become public domain. The Licensor MAY transfer their rights to any third party provided the transferee accepts all obligations under this license.
 
-The following are accessory clauses that the Licensor is free to enforce or not, it is advised to the Licensor to remove the clauses that won't be enforced along with this paragraph.
-
 A. The Work SHALL NOT be used with clear intent to harm people, such as but not limited to: Creation of weapons of mass destruction, creation of explosive ordinance, creation of firearms with lethal firepower, creation of devices intended to end a human life intentionally, creation of accessories to the above.
 
 B. The Work, in physical form, SHALL include this notice or a link to it in any form of information transmission.
-
-C. The Licensor SHOULD be made aware of works stemming from their own.
