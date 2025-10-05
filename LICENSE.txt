@@ -1,0 +1,57 @@
+Free and Open HardWare License - Version 1.0 - October 5th, 2025
+
+Copyright <YEAR>, <CR HOLDERs>
+
+This document is under the governing law of <CR HOLDERs COUNTRY OR JURISDICTION OF INTEREST>.  
+
+Preface 
+Previous versions of this license may or may not be compatibile between eachother, the final responsability is on the copyright holder(s) and final users. Derivative works are to follow the same license version as the one specified on top of this document.
+
+It is important to mind that a "White Room implementation" or in clearer terms, studying what is accompanied by this license to replicate it in its entirety without using the source code itself, is not a case covered by this license.
+
+If a clause is invalid under the governing law of which this document is under, other clauses should still be held as valid ignoring the invalid part. 
+
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and  "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
+
+https://datatracker.ietf.org/doc/html/rfc2119
+
+Body
+In this document, permissions regarding what is accompanied by this license are expressed. In the following document "source code" or more generically "source" is described as what makes possible to create the physical form of the licensed work such as, but not limited to: CAD files, schematics, PCB layouts, unpatented principles of its inner workings. The term "mainly" in this document indicates a condition such as without taking from what is accompanied by this license would be impossible to create, define or design. In this document public disclosure is defined as rendering something publicly available, to anyone looking for it, both using digital or analog medias.
+
+Attribution is to be followed by citing the original author in a clear and visible way either on physical or digital copies.
+
+Permission, regarding the licensed work and everything accompanying it (the "Work"), to distribute, display, use, transmit, contribute and recreate in source code or physical form, with or without modification, to any person or organization, is permitted under the following conditions:
+
+1. The Work SHALL be attributed to its original creator, that is cited in the above copyright notice, and to those (the "Contributors") who submit modifications (the "Contributions") to the Work. Thus, redistribution of source code SHALL be retained along with this list of conditions and the above copyright notice.
+
+2.  The Licensor is the sole copyright holder of the original Work. Contributors retain copyright in their Contributions but grant the Licensor an exclusive, irrevocable, perpetual, worldwide, royalty-free license to use, modify, distribute, and sublicense their Contributions as part of the Work, with full rights to enforce this license. No third-party may patent the Work or Contributions incorporated into the Work. The Work SHALL remain royalty-free; commercial sale of physical forms is permitted under the conditions specified in this license.
+
+3. Should one submit a Contribution, the Contributor grants an exclusive, irrevocable, perpetual, worldwide, royalty-free license as described in Clause 2. Said Contribution and the license grant SHALL NOT be repealed after admission from the Licensor, even if moved to a new project based on the Work (a "Fork"). Admission is defined as the Contribution being included in the Work. When a Contribution is submitted and admitted, the Contributor retains copyright but may not exercise rights in ways that conflict with this license or the Licensor's rights hereunder. Contributors SHALL be credited according to Clause 1. Forks are free to admit contributions not admitted in the Work, and a Fork itself does not need permission to be created. Everything present in a Fork but not in the Work is licensed by the creator of said Fork (the "Forker") under the same license as the Work.
+The Contributor further agrees not to assert any rights that would restrict the Licensor's use, modification, or distribution of the Contribution, including but not limited to moral rights to the maximum extent permitted by applicable law, and grants the Licensor the right to decide all matters regarding the Work without consultation.
+
+4. The Work SHALL NOT be made private, the Work SHALL remain publicly disclosed in its entirety, even after thorough modifications by the Contributors to the Work or after creation of a Fork by a Forker.
+
+5. The Work or anything made mainly from it SHALL NOT be credited to others than the Licensor and the Contributors. Forkers are to be credited only on parts not present in the original Work. Derivative works which don't make use of the source code of the Work do not abide by this statement. Other works that interface with the Work without including it in their own source code do not abide by this statement.
+
+6. The Licensor or the Contributors SHALL NOT be held accountable for the use of the Work by its final users, the following disclaimer is to be mindful of:
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE WORK BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+7. Other works stemming from the Work, either in source or in physical form, SHALL retain this list of conditions and above copyright notice.
+
+8. Permission to display, view, recreate and distribute the Work SHALL be granted free of charge. Permission to create physical forms of the Work SHALL also be granted free of charge.
+
+9. Permission to sell physical forms of the Work is granted at the condition of including a link to the original source code that is available free of charge and clearly visible. In the case that the link to the original source code becomes unavailable, it is imperative that a new link is provided to the same source code unless it has effectively become impossible to obtain.
+
+10. Inclusion in other works with different licenses is permitted as long as the inclusion of the Work is clearly disclosed and this list of conditions is respected regarding the use of the Work. 
+
+11. Violating the clauses of this license denies permission to distribute, display, use, transmit, contribute and recreate in source code or physical form, with or without modification, to any person or organization who has broken them. However, it is upon the Licensor to take proper legal action against transgressor using the tools provided by the law. Restoration is upon the Licensor. Cure of violations SHOULD be preferred to immediate invalidation, at the discretion of the Licensor.
+
+12. Upon death of the Licensor, all rights and obligations under this license transfer to the Licensor's legal heirs under applicable inheritance law. If no heirs exist, or if the heirs formally waive their rights to the Work through the legal tools provided by governing law, the Work it self SHALL become public domain. The Licensor MAY transfer their rights to any third party provided the transferee accepts all obligations under this license.
+
+The following are accessory clauses that the Licensor is free to enforce or not, it is advised to the Licensor to remove the clauses that won't be enforced along with this paragraph.
+
+A. The Work SHALL NOT be used with clear intent to harm people, such as but not limited to: Creation of weapons of mass destruction, creation of explosive ordinance, creation of firearms with lethal firepower, creation of devices intended to end a human life intentionally, creation of accessories to the above.
+
+B. The Work, in physical form, SHALL include this notice or a link to it in any form of information transmission.
+
+C. The Licensor SHOULD be made aware of works stemming from their own.
