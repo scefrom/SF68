@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|195580000|74136250|ed370205-31bf-4c70-9cff-4da254ce148d|a3c0121b-395a-469a-8e40-28801ad0261c",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -98,7 +103,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
+        "solder_mask_bridge": "warning",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
@@ -489,7 +494,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ram1M.step",
       "svg": "",
       "vrml": "ram1M.wrl"
     },
@@ -596,7 +601,7 @@
       "version": 1
     },
     "net_format_name": "KiCad",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://empty.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
