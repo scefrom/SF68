@@ -4365,7 +4365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32"
 			(at 74.93 66.04 0)
 			(effects
 				(font
@@ -4374,7 +4374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Quad 2-input OR"
 			(at 74.93 66.04 0)
 			(effects
 				(font

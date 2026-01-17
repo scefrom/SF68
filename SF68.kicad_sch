@@ -9484,7 +9484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
 			(at 177.8 190.5 0)
 			(effects
 				(font
@@ -9493,7 +9493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Hex Inverter"
 			(at 177.8 190.5 0)
 			(effects
 				(font
@@ -12042,7 +12042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
 			(at 119.38 147.32 0)
 			(effects
 				(font
@@ -12051,7 +12051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Hex Inverter"
 			(at 119.38 147.32 0)
 			(effects
 				(font
@@ -13308,7 +13308,7 @@
 				(justify left)
 			)
 		)
-		(pin "BE{~{IO},~{M}}" bidirectional
+		(pin "BE{~{IO},~{M}}" input
 			(at 63.5 172.72 180)
 			(uuid "934abb3f-82de-45ad-ac8f-e3e48bc65727")
 			(effects

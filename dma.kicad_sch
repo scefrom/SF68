@@ -4106,7 +4106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
 			(at 99.06 96.52 0)
 			(effects
 				(font
@@ -4115,7 +4115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Hex Inverter"
 			(at 99.06 96.52 0)
 			(effects
 				(font

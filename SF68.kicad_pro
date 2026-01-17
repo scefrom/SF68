@@ -499,7 +499,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "SF68.net",
-      "plot": "",
+      "plot": "svg/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
