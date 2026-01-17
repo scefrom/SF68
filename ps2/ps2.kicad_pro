@@ -612,6 +612,18 @@
     [
       "0417edbf-d6ac-46fa-bfd1-1542e1b615ef",
       "Root"
+    ],
+    [
+      "88e96e58-5fce-4f2e-93a4-14aa87171f50",
+      "ports_mux"
+    ],
+    [
+      "742774d3-222e-48ef-9720-49db10493bda",
+      "controller"
+    ],
+    [
+      "753d7433-4eab-45b6-b955-e04603562ec7",
+      "shift_registers"
     ]
   ],
   "text_variables": {}

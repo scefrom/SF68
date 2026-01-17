@@ -411,6 +411,42 @@
     [
       "6b296706-bf42-4d1c-a968-c719c6ddbbdc",
       "Root"
+    ],
+    [
+      "ca78230d-5373-4625-8902-b218ccb3bbea",
+      "counters"
+    ],
+    [
+      "26b3a100-c72a-42ba-b022-ea1c9c246e96",
+      "vga_interface"
+    ],
+    [
+      "ad993cb6-9de7-406e-94e0-e593fd04ceb4",
+      "banks_addr_muxes"
+    ],
+    [
+      "e5f4b06d-cc51-4cf2-9866-44d1d04bfec0",
+      "banks"
+    ],
+    [
+      "4766583f-e26b-4e27-9bce-bd109fb34e95",
+      "banks_data_demuxes"
+    ],
+    [
+      "421ed810-270a-4e3e-8f79-54542241be35",
+      "control_reg"
+    ],
+    [
+      "118e7827-f63f-4ff4-b19e-675f3ee1e671",
+      "bus_connector"
+    ],
+    [
+      "85b67cf6-29a6-4f41-9c6c-9951c8c1a14a",
+      "bus_mapper"
+    ],
+    [
+      "9ffec8e0-12f2-4507-9104-578795f4c87b",
+      "color_muxes"
     ]
   ],
   "text_variables": {}
