@@ -1,0 +1,40 @@
+CHIP "statusreg"
+BEGIN
+
+    DEVICE = "PLCC44";
+    "IOAD_6"                                  : INPUT_PIN = 4 ;
+    "IO_N"                                    : INPUT_PIN = 5 ;
+    "US_N"                                    : INPUT_PIN = 6 ;
+    "TDI"                                     : INPUT_PIN = 7 ;
+    "RIH_N"                                   : OUTPUT_PIN = 8 ;
+    "VBS_N"                                   : OUTPUT_PIN = 9 ;
+    "VBS"                                     : OUTPUT_PIN = 11 ;
+    "CM"                                      : OUTPUT_PIN = 12 ;
+    "TMS"                                     : INPUT_PIN = 13 ;
+    "UP"                                      : OUTPUT_PIN = 14 ;
+    "BLE_N"                                   : OUTPUT_PIN = 16 ;
+    "BUE_N"                                   : OUTPUT_PIN = 17 ;
+    "DAT_2"                                   : OUTPUT_PIN = 18 ;
+    "DAT_1"                                   : OUTPUT_PIN = 19 ;
+    "DAT_0"                                   : OUTPUT_PIN = 20 ;
+    "DAT_3"                                   : OUTPUT_PIN = 21 ;
+    "IOAD_1"                                  : INPUT_PIN = 41 ;
+    "IOAD_2"                                  : INPUT_PIN = 40 ;
+    "IOAD_3"                                  : INPUT_PIN = 39 ;
+    "TDO"                                     : INPUT_PIN = 38 ;
+    "IOAD_5"                                  : INPUT_PIN = 37 ;
+    "IOAD_4"                                  : INPUT_PIN = 36 ;
+    "IOAD_0"                                  : INPUT_PIN = 34 ;
+    "MAD_1"                                   : INPUT_PIN = 33 ;
+    "TCK"                                     : INPUT_PIN = 32 ;
+    "MAD_0"                                   : INPUT_PIN = 31 ;
+    "M_N"                                     : INPUT_PIN = 29 ;
+    "MAD_4"                                   : INPUT_PIN = 28 ;
+    "MAD_2"                                   : INPUT_PIN = 27 ;
+    "MAD_3"                                   : INPUT_PIN = 26 ;
+    "PRG_N"                                   : INPUT_PIN = 25 ;
+    "LS_N"                                    : INPUT_PIN = 24 ;
+    "WR_N"                                    : INPUT_PIN = 2 ;
+    "VS_N"                                    : INPUT_PIN = 43 ;
+    "RES_N"                                   : INPUT_PIN = 1 ;
+END;

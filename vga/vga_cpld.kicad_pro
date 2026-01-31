@@ -188,10 +188,8 @@
       ],
       "track_widths": [
         0.0,
-        0.2,
-        0.3,
         0.5,
-        0.6
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -467,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "vga.kicad_pro",
+    "filename": "vga_cpld.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -612,8 +610,8 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
-    "page_layout_descr_file": "kicad-embed://empty.kicad_wks",
+    "net_format_name": "KiCad",
+    "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -627,44 +625,28 @@
   },
   "sheets": [
     [
-      "6b296706-bf42-4d1c-a968-c719c6ddbbdc",
+      "eac05228-afcc-4a64-b0a2-d2674f34b0cf",
       "Root"
     ],
     [
-      "ca78230d-5373-4625-8902-b218ccb3bbea",
-      "counters"
-    ],
-    [
-      "26b3a100-c72a-42ba-b022-ea1c9c246e96",
-      "vga_interface"
-    ],
-    [
-      "ad993cb6-9de7-406e-94e0-e593fd04ceb4",
-      "banks_addr_muxes"
-    ],
-    [
-      "e5f4b06d-cc51-4cf2-9866-44d1d04bfec0",
-      "banks"
-    ],
-    [
-      "4766583f-e26b-4e27-9bce-bd109fb34e95",
-      "banks_data_demuxes"
-    ],
-    [
-      "421ed810-270a-4e3e-8f79-54542241be35",
-      "control_reg"
-    ],
-    [
-      "118e7827-f63f-4ff4-b19e-675f3ee1e671",
+      "0cc2963d-7dd2-477c-a8d8-221ca822480e",
       "bus_connector"
     ],
     [
-      "85b67cf6-29a6-4f41-9c6c-9951c8c1a14a",
-      "bus_mapper"
+      "5fe8f622-8773-4f8c-b5ad-be10feb4ad5b",
+      "vga_interface"
     ],
     [
-      "9ffec8e0-12f2-4507-9104-578795f4c87b",
-      "color_muxes"
+      "6c3ecc91-e2ba-4368-9e22-ab9985d6233c",
+      "adrcross"
+    ],
+    [
+      "f2f63764-96a9-45a4-b853-c3f52936d257",
+      "vram"
+    ],
+    [
+      "3247a3f7-c838-4441-ac34-4db43b73b16a",
+      "datacross"
     ]
   ],
   "text_variables": {}
