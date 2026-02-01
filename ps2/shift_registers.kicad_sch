@@ -3703,7 +3703,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f131d33-5248-4d68-ba30-800f2934430b")
-		(property "Reference" "U9"
+		(property "Reference" "U1"
 			(at 103.7941 68.58 0)
 			(effects
 				(font
@@ -3730,7 +3730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS195"
+		(property "Datasheet" ""
 			(at 101.6 88.9 0)
 			(effects
 				(font
@@ -3739,7 +3739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Shift Register 4-bit, parallel"
+		(property "Description" ""
 			(at 101.6 88.9 0)
 			(effects
 				(font
@@ -3799,7 +3799,7 @@
 		(instances
 			(project "ps2"
 				(path "/0417edbf-d6ac-46fa-bfd1-1542e1b615ef/753d7433-4eab-45b6-b955-e04603562ec7"
-					(reference "U9")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -3947,7 +3947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3dfcc6ce-17ab-4e50-9131-ffd43b11ab3d")
-		(property "Reference" "U12"
+		(property "Reference" "U9"
 			(at 129.1941 121.92 0)
 			(effects
 				(font
@@ -3974,7 +3974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS280"
+		(property "Datasheet" ""
 			(at 127 139.7 0)
 			(effects
 				(font
@@ -3983,7 +3983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Parity Generator/Checker"
+		(property "Description" ""
 			(at 127 139.7 0)
 			(effects
 				(font
@@ -4037,7 +4037,7 @@
 		(instances
 			(project "ps2"
 				(path "/0417edbf-d6ac-46fa-bfd1-1542e1b615ef/753d7433-4eab-45b6-b955-e04603562ec7"
-					(reference "U12")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -4516,7 +4516,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e278dc3-3001-4f79-87d5-9ead104448da")
-		(property "Reference" "U13"
+		(property "Reference" "U11"
 			(at 179.9941 119.38 0)
 			(effects
 				(font
@@ -4543,7 +4543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS541"
+		(property "Datasheet" ""
 			(at 177.8 139.7 0)
 			(effects
 				(font
@@ -4552,7 +4552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "8-bit Buffer/Line Driver 3-state outputs"
+		(property "Description" ""
 			(at 177.8 139.7 0)
 			(effects
 				(font
@@ -4624,7 +4624,7 @@
 		(instances
 			(project "ps2"
 				(path "/0417edbf-d6ac-46fa-bfd1-1542e1b615ef/753d7433-4eab-45b6-b955-e04603562ec7"
-					(reference "U13")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -4706,7 +4706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b7da1cb-8ab0-484c-b109-adfb10f581cc")
-		(property "Reference" "U10"
+		(property "Reference" "U2"
 			(at 154.5941 68.58 0)
 			(effects
 				(font
@@ -4733,7 +4733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS195"
+		(property "Datasheet" ""
 			(at 152.4 88.9 0)
 			(effects
 				(font
@@ -4742,7 +4742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Shift Register 4-bit, parallel"
+		(property "Description" ""
 			(at 152.4 88.9 0)
 			(effects
 				(font
@@ -4802,7 +4802,7 @@
 		(instances
 			(project "ps2"
 				(path "/0417edbf-d6ac-46fa-bfd1-1542e1b615ef/753d7433-4eab-45b6-b955-e04603562ec7"
-					(reference "U10")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -5016,7 +5016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee45703c-4dff-43aa-a989-4d905b11836b")
-		(property "Reference" "U11"
+		(property "Reference" "U3"
 			(at 205.3941 68.58 0)
 			(effects
 				(font
@@ -5043,7 +5043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS195"
+		(property "Datasheet" ""
 			(at 203.2 88.9 0)
 			(effects
 				(font
@@ -5052,7 +5052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Shift Register 4-bit, parallel"
+		(property "Description" ""
 			(at 203.2 88.9 0)
 			(effects
 				(font
@@ -5112,7 +5112,7 @@
 		(instances
 			(project "ps2"
 				(path "/0417edbf-d6ac-46fa-bfd1-1542e1b615ef/753d7433-4eab-45b6-b955-e04603562ec7"
-					(reference "U11")
+					(reference "U3")
 					(unit 1)
 				)
 			)
