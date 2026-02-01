@@ -43736,6 +43736,30 @@
 		(layer "Edge.Cuts")
 		(uuid "ffab5c3c-b2a8-4786-b720-3a57a1a71b8d")
 	)
+	(gr_text "GND"
+		(at 266.7 -139.7 0)
+		(layer "F.SilkS")
+		(uuid "41864faf-e3bf-41f6-bf30-2676ad181151")
+		(effects
+			(font
+				(size 1.27 1.143)
+				(thickness 0.142875)
+			)
+			(justify right)
+		)
+	)
+	(gr_text "+12V"
+		(at 266.7 -142.24 0)
+		(layer "F.SilkS")
+		(uuid "4b829799-1936-4044-b7bd-e8e86d262606")
+		(effects
+			(font
+				(size 1.27 1.143)
+				(thickness 0.142875)
+			)
+			(justify right)
+		)
+	)
 	(gr_text "VGA Extension\n640x480@60Hz"
 		(at 130.81 -170.18 0)
 		(layer "F.SilkS")
@@ -43745,6 +43769,18 @@
 				(size 2.54 2.54)
 				(thickness 0.3175)
 			)
+		)
+	)
+	(gr_text "-12V"
+		(at 266.7 -137.16 0)
+		(layer "F.SilkS")
+		(uuid "e242f22d-84ea-4830-b704-7b14a9d94dcd")
+		(effects
+			(font
+				(size 1.27 1.143)
+				(thickness 0.142875)
+			)
+			(justify right)
 		)
 	)
 	(segment
