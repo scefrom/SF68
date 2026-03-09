@@ -9101,7 +9101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PCBEdge:pcb_edge_30_P2.54_new"
+		(property "Footprint" "Connector_PCBEdge:edge_connector_15p_2.54mm"
 			(at 36.83 133.35 0)
 			(effects
 				(font
@@ -9253,7 +9253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PCBEdge:pcb_edge_60_P2.54_new"
+		(property "Footprint" "Connector_PCBEdge:edge_connector_30p_2.54mm"
 			(at 36.83 64.77 0)
 			(effects
 				(font
