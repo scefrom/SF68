@@ -3820,7 +3820,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "02bfe071-4fe3-4344-b9d8-71f2881da493")
-		(property "Reference" "R9"
+		(property "Reference" "R11"
 			(at 74.422 91.44 0)
 			(effects
 				(font
@@ -3874,7 +3874,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R9")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -3890,7 +3890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0335fdc9-bcdf-4b29-ba46-2f381811595e")
-		(property "Reference" "C7"
+		(property "Reference" "C4"
 			(at 233.68 60.0709 0)
 			(effects
 				(font
@@ -3917,7 +3917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 229.87 62.23 0)
 			(effects
 				(font
@@ -3926,7 +3926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 229.87 62.23 0)
 			(effects
 				(font
@@ -3944,7 +3944,7 @@
 		(instances
 			(project ""
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "C7")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -3959,7 +3959,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "055d297a-ee53-4309-bc74-8a669ea56533")
-		(property "Reference" "R20"
+		(property "Reference" "R23"
 			(at 69.85 63.5 90)
 			(effects
 				(font
@@ -4011,7 +4011,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R20")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -4026,7 +4026,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "09867282-cc34-4984-85fb-9052fdd5bb33")
-		(property "Reference" "R12"
+		(property "Reference" "R14"
 			(at 82.55 96.52 90)
 			(effects
 				(font
@@ -4078,7 +4078,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R12")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -4093,7 +4093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1142e88d-e386-4fc8-a128-5e779d57720b")
-		(property "Reference" "R27"
+		(property "Reference" "R30"
 			(at 175.26 132.08 90)
 			(effects
 				(font
@@ -4145,7 +4145,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R27")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -4161,7 +4161,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "121336a5-a610-4caa-87cd-34b5ef02b76b")
-		(property "Reference" "R10"
+		(property "Reference" "R12"
 			(at 74.422 53.34 0)
 			(effects
 				(font
@@ -4215,7 +4215,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R10")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -4231,7 +4231,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14cded68-cd70-4559-99b5-603791f17c21")
-		(property "Reference" "J4"
+		(property "Reference" "J6"
 			(at 149.86 53.34 0)
 			(effects
 				(font
@@ -4322,7 +4322,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "J4")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -4403,7 +4403,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "18058911-58b9-4c39-b308-fa7758f62051")
-		(property "Reference" "R16"
+		(property "Reference" "R18"
 			(at 87.122 91.44 0)
 			(effects
 				(font
@@ -4457,7 +4457,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R16")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -4624,7 +4624,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f905d55-091c-48bf-bf25-98a78fc0b452")
-		(property "Reference" "R8"
+		(property "Reference" "R10"
 			(at 74.422 129.54 0)
 			(effects
 				(font
@@ -4678,7 +4678,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R8")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -4829,7 +4829,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2b167d0b-2d92-4b3d-9711-968470564dff")
-		(property "Reference" "R32"
+		(property "Reference" "R35"
 			(at 161.29 121.92 90)
 			(effects
 				(font
@@ -4881,7 +4881,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R32")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -4896,7 +4896,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2ce0fd75-6e02-4215-a45d-afef261d551c")
-		(property "Reference" "R23"
+		(property "Reference" "R26"
 			(at 189.23 111.76 90)
 			(effects
 				(font
@@ -4948,7 +4948,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R23")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -4963,7 +4963,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36bbd009-7dba-4c70-8163-96123915330e")
-		(property "Reference" "R6"
+		(property "Reference" "R7"
 			(at 69.85 96.52 90)
 			(effects
 				(font
@@ -5015,7 +5015,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -5030,7 +5030,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3b7631fa-a50c-4721-95e2-b7997de6410f")
-		(property "Reference" "R30"
+		(property "Reference" "R33"
 			(at 115.57 60.96 90)
 			(effects
 				(font
@@ -5082,7 +5082,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R30")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -5184,7 +5184,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43144bbc-203f-4efc-b312-0a97a91a5fad")
-		(property "Reference" "R15"
+		(property "Reference" "R17"
 			(at 87.122 129.54 0)
 			(effects
 				(font
@@ -5238,7 +5238,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R15")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -5386,7 +5386,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4bbfef6a-8e5c-41b5-b8bf-b7ca3545adc4")
-		(property "Reference" "R21"
+		(property "Reference" "R24"
 			(at 161.29 109.22 90)
 			(effects
 				(font
@@ -5438,7 +5438,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R21")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -5453,7 +5453,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c56efda-6fa1-4102-8dab-806ab0713e41")
-		(property "Reference" "R11"
+		(property "Reference" "R13"
 			(at 82.55 134.62 90)
 			(effects
 				(font
@@ -5505,7 +5505,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R11")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -5520,7 +5520,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4da36aaf-2005-4730-826e-177d2844f1c6")
-		(property "Reference" "R5"
+		(property "Reference" "R6"
 			(at 69.85 134.62 90)
 			(effects
 				(font
@@ -5572,7 +5572,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R5")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -5587,7 +5587,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4feb00c5-0829-45ca-9ae4-2e53837cd0f7")
-		(property "Reference" "R31"
+		(property "Reference" "R34"
 			(at 175.26 119.38 90)
 			(effects
 				(font
@@ -5639,7 +5639,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R31")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -5720,7 +5720,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "613ca086-f010-4905-8eb9-e105aaa6e3be")
-		(property "Reference" "R22"
+		(property "Reference" "R25"
 			(at 189.23 124.46 90)
 			(effects
 				(font
@@ -5772,7 +5772,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R22")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -5853,7 +5853,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "644498d4-03fa-48bb-b3ea-824dfdeb8a5e")
-		(property "Reference" "R17"
+		(property "Reference" "R19"
 			(at 87.122 53.34 0)
 			(effects
 				(font
@@ -5907,7 +5907,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R17")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -5922,7 +5922,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66ff4dda-feb3-4ed2-8aa5-21f912c4c587")
-		(property "Reference" "R26"
+		(property "Reference" "R29"
 			(at 101.6 73.66 90)
 			(effects
 				(font
@@ -5974,7 +5974,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R26")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -6120,7 +6120,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8097a234-565c-4711-aadb-ba7b4a1bf2f6")
-		(property "Reference" "R13"
+		(property "Reference" "R15"
 			(at 82.55 58.42 90)
 			(effects
 				(font
@@ -6172,7 +6172,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R13")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -6188,7 +6188,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88550d3b-59f2-4570-ae38-4f86e1b49800")
-		(property "Reference" "J2"
+		(property "Reference" "J4"
 			(at 184.15 74.9299 0)
 			(effects
 				(font
@@ -6245,7 +6245,7 @@
 		(instances
 			(project ""
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "J2")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -6260,7 +6260,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8873a06c-ee39-4fa0-adca-03af945473a6")
-		(property "Reference" "R25"
+		(property "Reference" "R28"
 			(at 101.6 111.76 90)
 			(effects
 				(font
@@ -6312,7 +6312,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R25")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -6483,7 +6483,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "913f504b-d59d-419f-bede-ce6a6be07cf5")
-		(property "Reference" "R28"
+		(property "Reference" "R31"
 			(at 115.57 137.16 90)
 			(effects
 				(font
@@ -6535,7 +6535,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R28")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -6551,7 +6551,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9153e7f7-afad-4201-ab08-8b47274628e1")
-		(property "Reference" "R34"
+		(property "Reference" "R20"
 			(at 217.932 58.42 0)
 			(effects
 				(font
@@ -6578,7 +6578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 219.71 59.69 0)
 			(effects
 				(font
@@ -6587,7 +6587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" ""
 			(at 219.71 59.69 0)
 			(effects
 				(font
@@ -6605,7 +6605,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R34")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -6620,7 +6620,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "93c63ca0-863d-4e41-adf6-199e4af291f7")
-		(property "Reference" "R33"
+		(property "Reference" "R5"
 			(at 208.28 66.04 90)
 			(effects
 				(font
@@ -6645,7 +6645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 208.28 68.58 0)
 			(effects
 				(font
@@ -6654,7 +6654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" ""
 			(at 208.28 68.58 0)
 			(effects
 				(font
@@ -6672,7 +6672,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R33")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -6952,7 +6952,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5b3af39-9184-45ac-82d7-f1dfa0ae69f8")
-		(property "Reference" "R18"
+		(property "Reference" "R21"
 			(at 76.2 139.7 90)
 			(effects
 				(font
@@ -7004,7 +7004,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R18")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -7020,7 +7020,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a68c813a-c047-47a2-9449-07646f2f2608")
-		(property "Reference" "C8"
+		(property "Reference" "C7"
 			(at 233.68 80.3909 0)
 			(effects
 				(font
@@ -7047,7 +7047,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 229.87 82.55 0)
 			(effects
 				(font
@@ -7056,7 +7056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 229.87 82.55 0)
 			(effects
 				(font
@@ -7074,7 +7074,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -7373,7 +7373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfbd4a4b-6451-4e55-a430-3da4cf71ee45")
-		(property "Reference" "Q2"
+		(property "Reference" "Q1"
 			(at 222.25 67.3099 0)
 			(effects
 				(font
@@ -7400,7 +7400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 217.17 68.58 0)
 			(effects
 				(font
@@ -7409,7 +7409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "NPN transistor, collector/base/emitter"
+		(property "Description" ""
 			(at 217.17 68.58 0)
 			(effects
 				(font
@@ -7430,7 +7430,7 @@
 		(instances
 			(project ""
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "Q2")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -7706,7 +7706,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da88434b-e57f-4f91-b583-54bf0b20d042")
-		(property "Reference" "R7"
+		(property "Reference" "R8"
 			(at 69.85 58.42 90)
 			(effects
 				(font
@@ -7758,7 +7758,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R7")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -7773,7 +7773,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db6653dc-2abc-4e6f-8cbd-453a15b1f5a0")
-		(property "Reference" "R19"
+		(property "Reference" "R22"
 			(at 69.85 101.6 90)
 			(effects
 				(font
@@ -7825,7 +7825,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R19")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -7928,7 +7928,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0816212-777c-4b46-aa47-c3c21821b835")
-		(property "Reference" "R29"
+		(property "Reference" "R32"
 			(at 115.57 99.06 90)
 			(effects
 				(font
@@ -7980,7 +7980,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R29")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -7997,7 +7997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e756dd78-8a85-4c53-8ca7-ca1f01926324")
-		(property "Reference" "Q1"
+		(property "Reference" "Q2"
 			(at 219.71 41.91 90)
 			(effects
 				(font
@@ -8022,7 +8022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 219.71 50.8 0)
 			(effects
 				(font
@@ -8031,7 +8031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "PNP transistor, collector/base/emitter"
+		(property "Description" ""
 			(at 219.71 50.8 0)
 			(effects
 				(font
@@ -8052,7 +8052,7 @@
 		(instances
 			(project ""
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -8351,7 +8351,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fbf54b0a-aa04-4ae3-a19e-3e0bf8f3fe3f")
-		(property "Reference" "R24"
+		(property "Reference" "R27"
 			(at 101.6 149.86 90)
 			(effects
 				(font
@@ -8403,7 +8403,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/5fe8f622-8773-4f8c-b5ad-be10feb4ad5b"
-					(reference "R24")
+					(reference "R27")
 					(unit 1)
 				)
 			)

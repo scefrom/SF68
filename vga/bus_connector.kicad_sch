@@ -5930,7 +5930,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "21e56ee8-809d-4bb7-a442-9d4faa6fff32")
-		(property "Reference" "J3"
+		(property "Reference" "J5"
 			(at 139.7 182.88 0)
 			(effects
 				(font
@@ -6066,7 +6066,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/0cc2963d-7dd2-477c-a8d8-221ca822480e"
-					(reference "J3")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -6884,7 +6884,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bcf096a8-0fea-4be7-9f88-72ecf216560b")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 139.7 132.08 0)
 			(effects
 				(font
@@ -7110,7 +7110,7 @@
 		(instances
 			(project "vga_cpld"
 				(path "/eac05228-afcc-4a64-b0a2-d2674f34b0cf/0cc2963d-7dd2-477c-a8d8-221ca822480e"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
