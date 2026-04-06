@@ -5918,7 +5918,7 @@
 		)
 		(uuid "5873cf66-bf54-412f-8368-b22191c50444")
 	)
-	(label "D_{1}"
+	(label "D_{9}"
 		(at 147.32 107.95 180)
 		(effects
 			(font
@@ -6058,7 +6058,7 @@
 		)
 		(uuid "71044762-9d9b-4426-b336-02293fda2260")
 	)
-	(label "D_{2}"
+	(label "D_{10}"
 		(at 147.32 105.41 180)
 		(effects
 			(font
@@ -6178,7 +6178,7 @@
 		)
 		(uuid "7de2cf74-2a49-415b-bef6-ec2be30be97e")
 	)
-	(label "D_{0}"
+	(label "D_{8}"
 		(at 147.32 110.49 180)
 		(effects
 			(font
@@ -6698,7 +6698,7 @@
 		)
 		(uuid "d72f6687-69ad-4939-a69a-260c007cc76e")
 	)
-	(label "D_{3}"
+	(label "D_{11}"
 		(at 147.32 113.03 180)
 		(effects
 			(font
