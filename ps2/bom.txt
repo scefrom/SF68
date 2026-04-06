@@ -1,0 +1,37 @@
+connettori:
+2x mini din 6 ad angolo retto
+
+condensatori:
+9x 100n
+2x 10n
+1x 220p
+1x 22p
+1x 10u elettrolitico 5mm
+
+diodi:
+4x schotty
+
+transistori:
+6x npn bjt
+
+resistori:
+5x 4k7
+10x 10k
+2x 1k
+1x 2k
+
+integrati:
+3x 74hc195
+1x 74hc02
+1x 74hc14
+1x 74hc74
+2x 74hc32
+1x 74hc00
+1x 74hc280
+2x 74hc541
+1x 74hc688
+
+sockets per integrati:
+3x dip 16
+7x dip 14
+3x dip 20
