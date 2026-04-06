@@ -1,0 +1,29 @@
+ics:
+
+oscillatore 25.175mhz
+atf1508as-xjx84
+atf1502as-xjx44
+74hc157 x2
+at28c16
+74hc541 x15
+as6c4008 x4
+74hc245 x4
+cy74fct244 x2
+
+caps:
+
+22p
+100n x31
+100u x3
+10u x4
+
+ress:
+
+10k x2
+1k
+4.7k
+75 x2
+226
+200 x11
+100 x5
+294 x2
