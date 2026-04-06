@@ -1,0 +1,39 @@
+connettori:
+1x connettore idc 2.54mm 60 posizioni
+1x connettore idc 2.54mm 30 posizioni
+1x connettore dsub 15 orizzontale
+
+condensatori:
+4x 100uF elettrolitico 8mm diametro
+3x 10uF elettrolitico 5mm diametro
+36x 100nF
+1x 22pF
+
+resistori:
+1x 4.7k
+2x 75
+1x 226
+11x 200
+5x 100
+2x 294
+
+integrati:
+15x 74ahc541
+4x 74ahc245
+4x as6c4008-55
+2x 74hc157
+1x atf1508as
+1x atf1502as
+1x at28c16
+2x cy74fct244
+
+sockets per integrati:
+21x dip 20
+4x dip 32 wide
+2x dip 16
+1x dip 24 wide
+1x lcc 84
+1x lcc 44
+
+altro:
+1x oscillatore clock a cristallo da 25.175MHz, in dip 8
