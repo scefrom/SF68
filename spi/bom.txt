@@ -1,0 +1,34 @@
+integrati:
+74hc688
+74hc161 x2
+74hc153
+74hc164
+74hc541 x3
+74hc165
+74hc157
+74hc573
+74hc32
+74hc04
+74hc125 x2
+
+caps:
+22pF x2
+100nF x12
+10uF x1
+
+resistori:
+1k x2
+10k x4
+4k7 x2
+2k
+
+diodi:
+schottky x3
+
+connettori:
+IDC 2x5 orizzontale
+
+sockets:
+dip14 x5
+dip16 x5
+dip20 x5
