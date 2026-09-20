@@ -1710,7 +1710,7 @@
 	)
 	(text "Last resistors should be 294\nfor 3bit dacs & 226 for 2bit,\nin order to correctly output 700mV.\nThey've been lowered in order to\nprevent some signal smoothing."
 		(exclude_from_sim no)
-		(at 63.5 50.8 0)
+		(at 63.5 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1847,7 +1847,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 33.02) (xy 40.64 33.02)
+			(xy 63.5 58.42) (xy 66.04 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2117,7 +2117,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 30.48) (xy 40.64 30.48)
+			(xy 63.5 55.88) (xy 66.04 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2127,7 +2127,7 @@
 	)
 	(bus
 		(pts
-			(xy 38.1 25.4) (xy 40.64 25.4)
+			(xy 63.5 50.8) (xy 66.04 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2316,7 +2316,7 @@
 		(uuid "5e4d49ed-80b4-4997-b852-a2160d82d4e9")
 	)
 	(label "~{HS}"
-		(at 40.64 30.48 0)
+		(at 66.04 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2346,7 +2346,7 @@
 		(uuid "7f63df0e-2663-424b-a653-e4dcd49318c3")
 	)
 	(label "~{VS}"
-		(at 40.64 33.02 0)
+		(at 66.04 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2437,7 +2437,7 @@
 	)
 	(hierarchical_label "~{HS}"
 		(shape input)
-		(at 38.1 30.48 180)
+		(at 63.5 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2448,7 +2448,7 @@
 	)
 	(hierarchical_label "RGB_{[0..7]}"
 		(shape input)
-		(at 38.1 25.4 180)
+		(at 63.5 50.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2459,7 +2459,7 @@
 	)
 	(hierarchical_label "~{VS}"
 		(shape input)
-		(at 38.1 33.02 180)
+		(at 63.5 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)

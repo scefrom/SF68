@@ -896,7 +896,7 @@
 	)
 	(bus
 		(pts
-			(xy 48.26 25.4) (xy 50.8 25.4)
+			(xy 73.66 25.4) (xy 76.2 25.4)
 		)
 		(stroke
 			(width 0)
@@ -906,7 +906,7 @@
 	)
 	(bus
 		(pts
-			(xy 38.1 33.02) (xy 40.64 33.02)
+			(xy 63.5 33.02) (xy 66.04 33.02)
 		)
 		(stroke
 			(width 0)
@@ -916,7 +916,7 @@
 	)
 	(bus
 		(pts
-			(xy 38.1 27.94) (xy 40.64 27.94)
+			(xy 63.5 27.94) (xy 66.04 27.94)
 		)
 		(stroke
 			(width 0)
@@ -926,7 +926,7 @@
 	)
 	(bus
 		(pts
-			(xy 38.1 25.4) (xy 40.64 25.4)
+			(xy 63.5 25.4) (xy 66.04 25.4)
 		)
 		(stroke
 			(width 0)
@@ -936,7 +936,7 @@
 	)
 	(bus
 		(pts
-			(xy 38.1 35.56) (xy 40.64 35.56)
+			(xy 63.5 35.56) (xy 66.04 35.56)
 		)
 		(stroke
 			(width 0)
@@ -946,7 +946,7 @@
 	)
 	(bus
 		(pts
-			(xy 48.26 33.02) (xy 50.8 33.02)
+			(xy 73.66 33.02) (xy 76.2 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2116,7 +2116,7 @@
 	)
 	(hierarchical_label "VB_{1}A_{[0..17]}"
 		(shape input)
-		(at 38.1 33.02 180)
+		(at 63.5 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2127,7 +2127,7 @@
 	)
 	(hierarchical_label "VB_{0}D_{[0..15]}"
 		(shape bidirectional)
-		(at 50.8 25.4 0)
+		(at 76.2 25.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2138,7 +2138,7 @@
 	)
 	(hierarchical_label "VB_{1}D_{[0..15]}"
 		(shape bidirectional)
-		(at 50.8 33.02 0)
+		(at 76.2 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2149,7 +2149,7 @@
 	)
 	(hierarchical_label "VB_{1}C{~{E_{L}},~{E_{U}},~{R},~{W}}"
 		(shape input)
-		(at 38.1 35.56 180)
+		(at 63.5 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2160,7 +2160,7 @@
 	)
 	(hierarchical_label "VB_{0}A_{[0..17]}"
 		(shape input)
-		(at 38.1 25.4 180)
+		(at 63.5 25.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2171,7 +2171,7 @@
 	)
 	(hierarchical_label "VB_{0}C{~{E_{L}},~{E_{U}},~{R},~{W}}"
 		(shape input)
-		(at 38.1 27.94 180)
+		(at 63.5 27.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)

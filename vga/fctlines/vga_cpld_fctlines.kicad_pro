@@ -612,7 +612,7 @@
       "version": 1
     },
     "net_format_name": "KiCad",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://empty.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -628,10 +628,6 @@
     [
       "eac05228-afcc-4a64-b0a2-d2674f34b0cf",
       "Root"
-    ],
-    [
-      "0cc2963d-7dd2-477c-a8d8-221ca822480e",
-      "bus_connector"
     ],
     [
       "5fe8f622-8773-4f8c-b5ad-be10feb4ad5b",
