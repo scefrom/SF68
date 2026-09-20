@@ -1,0 +1,27 @@
+condensatori:
+1u elettrolitici d5mm p2mm x4
+22p
+
+bypass:
+100n x7
+
+connettori:
+dsub 9 male horizontal o4.94mm
+idc male 2x5 horizontal
+
+resistori:
+4k7
+
+ics:
+atf1504as
+max232
+74hc541
+74hc688
+
+sockets:
+plcc 44
+dip 16
+dip 20 x2
+
+misc:
+oscillatore 1.8432MHz
