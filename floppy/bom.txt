@@ -1,0 +1,38 @@
+condensatori:
+22p x2
+100n x2
+220p
+
+bypass:
+100n x16
+10u x2
+
+connettori:
+idc male 2x17 horizontal
+
+sockets:
+plcc 84
+plcc 44
+dip 16 x2
+dip 14 x3
+dip 20 x7
+
+resistori:
+1k_array
+10k x4
+4k7 x2
+
+ics:
+atf1508as
+atf1504as
+74hc75
+74hc139
+74hc02
+74hc541
+74hc574 x5
+74hc688
+74hc14
+74ls05
+
+misc:
+oscillatore 16MHz

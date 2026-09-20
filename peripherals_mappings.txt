@@ -1,0 +1,23 @@
+bus mappings:	(empty = ram)	(unit = page)
+f80-fff:	vga buffer
+
+IO ports mappings:
+	upp		low
+00:	ps/2 1		-
+02:	ps/2 2		-
+04:	spi data	spi ctrl
+06:	uart data	uart ctrl
+..
+10:	"vga ctrl"	vga ctrl
+..
+fc:	dbg		dbg
+fe:	dbg		dbg
+
+IRQs mappings:	(<vec>.<lvl>)
+0.1:	sys. timer (and fallback)
+1.2:	ps/2 1
+2.2:	spi slave rcv
+3.2:	ps/2 2
+4.2:	uart rcv
+..
+8.1:	vga vsync
